@@ -1,0 +1,6 @@
+{
+    "users":{"id":{"isLoggedIn":false,"token":""}},
+    "msgRecord":{
+        "id":[]
+    }
+}
